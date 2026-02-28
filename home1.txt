@@ -1,2 +1,4 @@
 This is new file hello
 I wrote second line
+I wrote third line
+I wrote forth line
